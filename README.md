@@ -1,4 +1,4 @@
-Arquivo executável da unity e APK junto com as imagens das marcações
+Arquivo executável da unity junto com as imagens das marcações
 
 Arquivo APK do software junto com as imagens das marcações: https://drive.google.com/drive/folders/1BQsjzacCKYTcyma6MgL9F7z3REUMHTCE?usp=sharing
 
