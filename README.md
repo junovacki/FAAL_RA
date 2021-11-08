@@ -1,4 +1,4 @@
-Arquivo executável da unity junto com as imagens das marcações
+Arquivo executável da unity e APK junto com as imagens das marcações
 
 
 caso esteja com problema ao abrir baixe o projeto nesse 
